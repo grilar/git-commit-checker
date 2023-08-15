@@ -1,10 +1,6 @@
 # Laravel GIT Commit Checker
 
 <p align="center">
-    <img src="/art/overview.png" alt="Overview Git Commit Checker" style="width:70%;">
-</p>
-
-<p align="center">
     <a href="https://packagist.org/packages/grilar/git-commit-checker"><img src="https://img.shields.io/packagist/v/grilar/git-commit-checker.svg?style=flat-square" alt="Latest Version"></a>
     <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License"></a>
     <a href="https://packagist.org/packages/grilar/git-commit-checker"><img src="https://img.shields.io/packagist/dt/grilar/git-commit-checker.svg?style=flat-square" alt="Total Downloads"></a>
