@@ -58,8 +58,7 @@ If you discover any security related issues, please email minhsang2603@gmail.com
 
 ## Credits
 
-- [Sang Nguyen](https://github.com/sangnguyenplus)
-- [All Contributors](../../contributors)
+
 
 ## License
 
