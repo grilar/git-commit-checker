@@ -43,24 +43,3 @@ Run test manually (made sure you've added all changed files to git stage):
 ```shell
 php artisan git-commit-checker:pre-commit-hook
 ```
-
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-### Security
-
-If you discover any security related issues, please email minhsang2603@gmail.com instead of using the issue tracker.
-
-## Credits
-
-
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
-"Check coding standard & code syntax with Git pre-commit hook." 
